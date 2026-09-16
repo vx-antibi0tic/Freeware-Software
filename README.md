@@ -2,7 +2,7 @@
 
 | Freeware Software Product | Description |
 |---|---|
-| [VTDL](https://github.com/vx-antibi0tic/Freeware-Software/releases/download/Freeware/VTDL.zip) | A GUI tool designed for users who want easy access to VirusTotal functionality. This tool focuses specifically on download capabilities. |
+| [VTDL](https://github.com/vx-antibi0tic/Freeware-Software/releases/tag/Freeware) | A GUI tool designed for users who want easy access to VirusTotal functionality. This tool focuses specifically on download capabilities. |
 
 # Screenshots Software
 
