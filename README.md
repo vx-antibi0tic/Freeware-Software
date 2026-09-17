@@ -32,7 +32,7 @@ The developer provides **no updates, technical support, maintenance, or guarante
 
 *Last Updated: September 2026*
 
-# Special thanks to contributors !
+# Special Thanks To Contributors !
 
 - Kamil Alta(alternat0r)
 
