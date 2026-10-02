@@ -5,23 +5,23 @@
 | [MalTag](https://github.com/vx-antibi0tic/Freeware-Software/releases/tag/Freeware) | A tool designed for users who want to label malware with signatures for free!s |
 | [VTDL](https://github.com/vx-antibi0tic/Freeware-Software/releases/tag/Freeware) | A GUI tool designed for users who want easy access to VirusTotal functionality. This tool focuses specifically on download capabilities. |
 
-# Screenshots Software
+## Screenshots Software
 
 > **Note:** All screenshots in this README are examples only. The program may be updated from time to time, so the screenshots shown here may differ from the current version as the software continues to improve.
 
-## Maltag
+## MalTag
 
-<img width="1881" height="795" alt="2026-10-03_00-33" src="https://github.com/user-attachments/assets/64a844a7-8c5a-45fc-8c8d-e49b9b920d62" />
+![](https://github.com/user-attachments/assets/64a844a7-8c5a-45fc-8c8d-e49b9b920d62)
 
 ## VTDL
 
-<img width="902" height="576" alt="2026-09-17_05-46" src="https://github.com/user-attachments/assets/c39b5e28-7ebc-416e-8f06-47c2d246e528" />
+![](https://github.com/user-attachments/assets/c39b5e28-7ebc-416e-8f06-47c2d246e528)
 
-# Report Issues or Suggest Improvements
+## Report Issues or Suggest Improvements
 
 If you encounter any issues or have suggestions for improving the program, feel free to open an issue on GitHub. Please provide a clear description and any relevant details to help me address it.
 
-# Terms and Conditions
+## Terms and Conditions
 
 This program is provided as **freeware at no cost** for personal, non-commercial use only. You agree to these terms by using the program.
 
@@ -37,10 +37,10 @@ The developer provides **no updates, technical support, maintenance, or guarante
 
 *Last Updated: September 2026*
 
-# Special Thanks To Contributors !
+## Special Thanks To Contributors !
 
 - Kamil Alta(alternat0r)
 
-# Disclaimer
+## Disclaimer
 
 > Disclaimer: This site is for educational and research purposes only. The author of this site is not responsible for any damages or harm you may suffer by accessing this website or using any information contained herein. The author of this site doesn’t hold any responsibility over the misuse of the software, malware, exploits or security findings contained herein and does not condone them whatsoever. Moreover, the author of the site prohibits any malicious misuse of security informations contained and found here or elsewhere. By continuing to access this website you are agreeing to the full disclaimer presented here and you accept full liability and responsibility. Do not attempt to download Malware samples. The author of this website takes no responsibility for any kind of damages occurring from improper Malware handling or the downloading of ANY Malware mentioned on this website or elsewhere.
