@@ -1,14 +1,19 @@
 # Freeware Software
 
-| Freeware Software Product | Description |
+| Software Projects | Description |
 |---|---|
-| [VTDL](https://github.com/vx-antibi0tic/Freeware-Software/releases/tag/Freeware) | A GUI tool designed for users who want easy access to VirusTotal functionality. This tool focuses specifically on download capabilities. (A premium VirusTotal plan, such as the Intelligence plan, is required.) |
+| [MalTag](https://github.com/vx-antibi0tic/Freeware-Software/releases/tag/Freeware) | A tool designed for users who want to label malware with signatures for free!s |
+| [VTDL](https://github.com/vx-antibi0tic/Freeware-Software/releases/tag/Freeware) | A GUI tool designed for users who want easy access to VirusTotal functionality. This tool focuses specifically on download capabilities. |
 
 # Screenshots Software
 
 > **Note:** All screenshots in this README are examples only. The program may be updated from time to time, so the screenshots shown here may differ from the current version as the software continues to improve.
 
-VTDL Version: 1.1.14
+## Maltag
+
+<img width="1881" height="795" alt="2026-10-03_00-33" src="https://github.com/user-attachments/assets/64a844a7-8c5a-45fc-8c8d-e49b9b920d62" />
+
+## VTDL
 
 <img width="902" height="576" alt="2026-09-17_05-46" src="https://github.com/user-attachments/assets/c39b5e28-7ebc-416e-8f06-47c2d246e528" />
 
