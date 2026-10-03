@@ -1,12 +1,9 @@
-# Freeware Software
-
+# Freeware Software ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fvx-antibi0tic%2FFreeware-Software&label=Repository%20Visits&labelColor=%236f42c1&countColor=%23212529&style=plastic&labelStyle=none) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 | Software Projects | Description |
 |---|---|
 | [MalTag](https://github.com/vx-antibi0tic/Freeware-Software/releases/tag/Freeware) | A tool designed for users who want to label malware with signatures for free!s |
 | [VTDL](https://github.com/vx-antibi0tic/Freeware-Software/releases/tag/Freeware) | A GUI tool designed for users who want easy access to VirusTotal functionality. This tool focuses specifically on download capabilities. |
-
-![Visitors Page Total](https://img.shields.io/github/downloads/vx-antibi0tic/Freeware-Software/total?style=for-the-badge&logo=github)
 
 ## Screenshots Software
 
