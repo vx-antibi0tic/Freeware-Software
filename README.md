@@ -2,7 +2,7 @@
 
 | Software Projects | Description |
 |---|---|
-| [MalTag](https://github.com/vx-antibi0tic/Freeware-Software/releases/tag/Freeware) | A tool designed for users who want to label malware with signatures for free!s |
+| [MalTag](https://github.com/vx-antibi0tic/Freeware-Software/releases/tag/Freeware) | A tool designed for users who want to label malware with signatures for free! |
 | [VTDL](https://github.com/vx-antibi0tic/Freeware-Software/releases/tag/Freeware) | A GUI tool designed for users who want easy access to VirusTotal functionality. This tool focuses specifically on download capabilities. |
 
 ## Screenshots Software
@@ -29,6 +29,8 @@ When you run it against a files containing malware, the output result will look 
 
 And with this result, it will automatically rename the file you just dropped.
 
+Credit: Smelly Smellington, Kamil Alta(alternat0r)
+
 ![](https://github.com/user-attachments/assets/64a844a7-8c5a-45fc-8c8d-e49b9b920d62)
 
 [→ Download Software Now](https://github.com/vx-antibi0tic/Freeware-Software/releases/tag/Freeware)
@@ -44,6 +46,8 @@ A GUI tool designed for users who want easy access to **VirusTotal functionality
 > **Requirement:** VTDL uses the VirusTotal API, which requires a VirusTotal API key. You can obtain a free API key by signing up with VirusTotal. However, free keys have rate limits and don't include access to premium features such as advanced searches and file downloads.
 
 I created this tool because I found the command-line interface tedious for regular use. While there are various ways to integrate VirusTotal across different platforms, I believe a **portable approach** offers the best user experience.
+
+Credit: Kamil Alta(alternat0r) 
 
 ![](https://github.com/user-attachments/assets/c39b5e28-7ebc-416e-8f06-47c2d246e528)
 
@@ -68,10 +72,6 @@ The developer provides **no updates, technical support, maintenance, or guarante
 **If you do not agree to these terms, do not use this program.** Continued use indicates your acceptance.
 
 *Last Updated: September 2026*
-
-## Special Thanks To Contributors !
-
-- Kamil Alta(alternat0r)
 
 ## Disclaimer
 
